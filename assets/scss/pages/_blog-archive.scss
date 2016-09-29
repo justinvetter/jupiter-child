@@ -1,0 +1,11 @@
+.mk-blog-classic-item, .mk-blog-modern-item {
+  .featured-image {
+    .image-hover-overlay,
+    .post-type-badge {
+      display: none;
+    }
+    &:hover img {
+      transform: none
+    }
+  }
+}
