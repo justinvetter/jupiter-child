@@ -1,0 +1,16 @@
+/*
+Theme Name:     Jupiter Child Theme
+Theme URI: 		http://themeforest.net/user/artbees
+Description:    Child theme for the Jupiter theme 
+Author:         Justin Vette
+Theme URI: 		http://themeforest.net/user/artbees
+Template:       jupiter
+Version:        1.0
+*/
+
+@import 'variables.scss';
+@import 'components/utilities/*.scss';
+
+@import 'components/*.scss';
+@import 'modules/*.scss'
+@import 'pages/*.scss';
